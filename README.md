@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Portfolio
 
-Collection of hands-on Python tools focused on cybersecurity fundamentals.
+Python-based cybersecurity tools focused on practical learning and networking fundamentals.
 
 ---
 
