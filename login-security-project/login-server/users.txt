@@ -1,0 +1,3 @@
+admin:secret123
+user1:password
+test:1234

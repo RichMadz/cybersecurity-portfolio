@@ -1,0 +1,40 @@
+Goal:
+Build strong cybersecurity fundamentals alongside Fernstudium.
+No rush to job. Focus on deep understanding and long-term skill.
+
+Principles:
+- Understand systems, not just tools
+- Build first → use tools later
+- No rushing, no surface-level learning
+- Consistency > speed
+
+Phase 1 (Current):
+- Build core systems (server, attacker, detection)
+- Understand networking, logs, behavior
+- Be able to explain everything clearly
+
+Phase 2:
+- Expand systems (better detection, simulation, logging)
+- Rebuild parts from scratch (gain fluency)
+- Remove “magic” feeling
+
+Phase 3:
+- Introduce Virtual Machine (Kali Linux)
+- Use real tools (nmap, hydra, etc.)
+- Map tools → concepts already learned
+
+Phase 4:
+- TryHackMe / labs
+- Apply knowledge in real scenarios
+- Focus on pattern recognition
+
+Focus Direction:
+Balanced, but leaning toward:
+- analysis
+- detection
+- system understanding
+
+Not optimizing for:
+- fast job entry
+- memorization
+- shortcuts
